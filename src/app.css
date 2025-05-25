@@ -1,0 +1,30 @@
+
+table img{
+width: 50px;
+}
+table{
+    text-align: center;
+}
+th{
+    padding-bottom: 25px;
+    border-bottom: 1px solid rgb(242, 238, 238);
+}
+.flex button{
+width: 40px;
+height: 40px;
+margin-right: 5px;
+}
+.dark{
+background-color: #121212;
+  color: white;
+}
+.light{
+      background-color: white;
+      color: black;
+}
+.info{
+    text-align: center;
+}
+.info div{
+    text-align: start;
+}
