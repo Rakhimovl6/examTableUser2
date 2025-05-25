@@ -132,7 +132,7 @@ function TableUser() {
   <div className={ theme == 'dark' ? 'dark' : 'light'}>
     <div className="bolo" style={{ padding: '10px 100px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
       <div className="ch1">
-        <h1>User List</h1>
+        <h1>User List 2</h1>
       </div>
       <div className="ch2">
         <button style={{ padding: '10px 30px', borderRadius: '5px', backgroundColor: 'blue', color: 'white', marginRight: '40px', border: 'none' }} onClick={handleAdd}>Add</button>
